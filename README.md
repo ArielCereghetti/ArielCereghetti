@@ -1,5 +1,5 @@
 - English:
-- 👋 Hi, I’m @ArielCereghetti a newish programmer.
+- 👋 Hi, I’m @ArielCereghetti a web programmer.
 - I’m interested in becoming a software engineer and possibly learn how to develop Videogames.
 - For now the technologies I'm interested in are C++/C# and Javascript, wich is the one I'm learning right now. 
 - I learned Python, HTML, CSS and Javascript.
@@ -8,7 +8,7 @@
 - As you can see I'm Bilingual and soon trilingual, so talk to me with the lenguage you feel most comfortable with!
 - 
 - Español:
-- Hola! soy @ArielCereghetti un Programador casi nuevo en el tema.
+- Hola! soy @ArielCereghetti un Programador web.
 - Estoy interesado en convertirme en un diseñador de software y posiblemente aprender cómo desarrollar Videojuegos!
 - Por ahora las tecnologías que me interesan aprender son C++/C# y Javascript, el cual estoy aprendiendo ahora mismo.
 - Ya aprendí a utilizar Python, HTML, CSS y Javascript.
