@@ -5,7 +5,7 @@
 - I learned Python, HTML, CSS and Javascript.
 - I would love to know more people on the subject so don't doubt talking with me, I promise I'll be nice!
 - If you want to reach me here's my Discord wich I use a lot: -ArielCereghetti#9086-.
-- As you can see I'm Bilingual and soon trilingual, so talk to me with the lenguage you feel most comfortable with!
+- As you can see I'm Bilingual and soon trilingual because i'm learning portuguese, so talk to me with the lenguage you feel most comfortable with!
 - 
 - Español:
 - Hola! soy @ArielCereghetti un Programador web.
@@ -14,7 +14,7 @@
 - Ya aprendí a utilizar Python, HTML, CSS y Javascript.
 - Me encantaría conocer más gente metida en el tema, así que no dudes en hablarme, juro que seré amable!
 - Si querés contactarme acá tenés mi Discord el cual uso bastante seguido: -ArielCereghetti#9086-.
-- Como puedes ver soy Bilingüe y próximamente Trilingüe, así que hablame en el idioma que más cómodo te parezca!
+- Como puedes ver soy Bilingüe y próximamente Trilingüe porque estoy aprendiendo portugués, así que hablame en el idioma que más cómodo te parezca!
 
 
 
